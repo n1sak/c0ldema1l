@@ -1,7 +1,7 @@
 # c0ld ema1l // tldr - a keypad to help you with your job search!
 
 Hi! This is **c0ld ema1l**, my custom 6-button keypad designed to make applying for jobs easier! 
-This project was inspired by my experience cold emailing for opportunities, now made easier with this automated keypad :))
+This project was inspired by my experience cold emailing for opportunities, a process now streamlined with this automated keypad :))
 
 ---
 # Required Photos
