@@ -20,7 +20,7 @@ This project was inspired by my experience cold emailing for opportunities, now 
   - Closing line
   - Resume link
   - Thank you follow-up
-  - Last key types Soham Parekh’s full cold email template
+  - Last key types Soham Parekh’s full cold email template :D 
 - Combo keys -- you press 2 at once to:
   - Open LinkedIn
   - Open GitHub
@@ -33,18 +33,15 @@ This project was inspired by my experience cold emailing for opportunities, now 
 <img width="400" alt="Screenshot 2025-07-06 at 5 45 39 PM" src="https://github.com/user-attachments/assets/10ff6e82-db68-45a2-9ce5-04eb6816dcbc" />
 
 
-I designed the PCB in KiCad. There are 6 switches in a simple matrix, added diodes, and a USB-C connector. DRC passed with zero errors.
+I designed the PCB in KiCad. There are 6 switches in a simple matrix and a USB-C connector. DRC passed with zero errors.
 
 ---
 
 ## CAD Model
 
-The 3D printed case holds everything snugly, with space for the USB port and switches.
+The 3D printed case holds everything and has space for the USB port and switches.
 
 <img width="400" alt="Screenshot 2025-07-06 at 5 49 33 PM" src="https://github.com/user-attachments/assets/032b0e3d-e0ef-4aa3-9ac8-23feaf83d609" />
-
-
-It assembles with M3 screws and M3 heat-set inserts.
 
 ---
 
@@ -58,24 +55,13 @@ The firmware is a file included in my Firmware folder as main.py. This project u
 
 ## Bill of Materials (BOM)
 
-| Item | Source | Notes |
-|------|--------|-------|
-| 1x Microcontroller (Pro Micro / XIAO) | Provided | Soldered directly |
-| 6x Mechanical switches | Provided | Any MX-compatible switch |
-
-| M3x5mmx4mm heat-set inserts (4 pcs) | Provided | For case assembly |
-| USB-C cable | Provided | To connect it all |
-
-
 6x MX-Style Switches
 
 6x DSA Blank White Keycaps
 
-6x 1N4148 signal diodes
+2x SK6812 MINI-E RGB LEDs
 
-9x SK6812 MINI-E RGB LEDs
-
-1x Seeed XIAO RP2040
+1x Seeed XIAO RP2040 (microcontroller :) )
 
 1x Case (2 printed parts)
 
@@ -89,5 +75,7 @@ The firmware is a file included in my Firmware folder as main.py. This project u
 
 1. Plug it into your computer via USB-C.
 2. Press any key: parts of a cold email are typed out for you instantly.
-3. Press combos: jump straight to **LinkedIn**, **GitHub**, or **Google Sheets**.
+3. Press combos: directed to LinkedIn, GitHub, or Google Sheets.
 ---
+
+I really enjoyed bringing this idea to life and exploring the hardware aspects of project building!! 
