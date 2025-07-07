@@ -17,7 +17,7 @@ keyboard.matrix = KeysScanner(
 
 keyboard.keymap = [
     [
-        # Key 0 - Personal intro / passion statement
+        # Key 1 INTRO
         KC.MACRO(
             "tidr;\n"
             "I love everything about what (Company) is doing. I don't have many hobbies outside coding. "
@@ -25,7 +25,7 @@ keyboard.keymap = [
             "At this point, I want to be a part of taking something from 0 -> 1 or 1 -> 100. I just want to be heads down chasing that goal\n\n"
         ),
 
-        # Key 1 - Greeting + interest + relevant experience summary
+        # Key 2 GREETING and lil INTRO
         KC.MACRO(
             "Hi (Name),\n"
             "Really loved what you were building at (Company) and wanted to reach out to see if there were any openings for Engineers in the early team. "
@@ -33,7 +33,7 @@ keyboard.keymap = [
             "often on early teams where I helped scale internal systems to thousands of users.\n\n"
         ),
 
-        # Key 2 - Skills & systems overview in Soham style
+        # Key 3 SKILLS and SYSTEMS
         KC.MACRO(
             "Being part of super lean teams, one of my strongest suits has been the ability to work across the stack—from building scalable backend systems "
             "to high-throughput data ingestion pipelines and production-grade frontend components in React. "
@@ -41,18 +41,18 @@ keyboard.keymap = [
             "(AWS, GCP on Kubernetes), from complex workflows and DAG visualizations to drag-and-drop component canvases.\n\n"
         ),
 
-        # Key 3 - Closing interest + cultural fit
+        # Key 4 CLOSING and FIT
         KC.MACRO(
             "I would love to be part of the early team at (Company) and help define its work and culture. Looking forward to hearing from you soon!\n\n"
         ),
 
-        # Key 4 - Sign off
+        # Key 5 SIGN OFF
         KC.MACRO(
             "Best,\n"
             "(Your Name)\n"
         ),
 
-        # Key 5 - Full email all together (for convenience)
+        # Key 6 FULL EMAIL TEMPLATE (for convenience)
         KC.MACRO(
             "tidr;\n"
             "I love everything about what (Company) is doing. I don't have many hobbies outside coding. "
@@ -73,7 +73,7 @@ keyboard.keymap = [
     ]
 ]
 
-# Combos sending main URLs as text
+# KEY Combos sending main URLs as text
 keyboard.combos = {
     (0, 1): KC.MACRO("https://linkedin.com\n"),
     (0, 2): KC.MACRO("https://github.com\n"),
@@ -83,3 +83,5 @@ keyboard.combos = {
 
 if __name__ == '__main__':
     keyboard.go()
+
+# Starter code used from Hack Club hackpad
