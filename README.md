@@ -66,13 +66,21 @@ The firmware is a file included in my Firmware folder as main.py. This project u
 | M3x5mmx4mm heat-set inserts (4 pcs) | Provided | For case assembly |
 | USB-C cable | Provided | To connect it all |
 
+
 6x MX-Style Switches
+
 6x DSA Blank White Keycaps
+
 6x 1N4148 signal diodes
+
 9x SK6812 MINI-E RGB LEDs
+
 1x Seeed XIAO RP2040
+
 1x Case (2 printed parts)
+
 4x M3 × 16 mm pan-head screws
+
 1x USB-C Cable
 
 ---
