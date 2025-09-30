@@ -4,7 +4,7 @@ Hi! This is **c0ld ema1l**, my custom 6-button keypad designed to make applying 
 This project was inspired by my experience cold emailing for opportunities, a process now streamlined with this automated keypad
 
 ---
-# Required Photos
+# Photos
 <img width="300" alt="Screenshot 2025-07-06 at 5 45 39 PM" src="https://github.com/user-attachments/assets/1092ee78-1c73-4802-819b-0cd804cbeb44" />
 <img width="300" alt="Screenshot 2025-07-06 at 5 46 39 PM" src="https://github.com/user-attachments/assets/e0462319-e3be-4fb8-82ca-0ae33fcf34a9" />
 <img width="300" alt="Screenshot 2025-07-06 at 5 49 33 PM" src="https://github.com/user-attachments/assets/1e863105-9b6c-41a3-b48c-567d6d3e103e" />
