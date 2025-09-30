@@ -78,4 +78,4 @@ The firmware is a file included in my Firmware folder as main.py. This project u
 3. Press combos: directed to LinkedIn, GitHub, or Google Sheets.
 ---
 
-I really enjoyed bringing this idea to life and exploring the hardware aspects of project building!! 
+Made + Submitted to Hacklub's Highway hackathon.
